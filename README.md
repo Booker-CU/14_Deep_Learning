@@ -4,8 +4,8 @@ Deep Learning / Machine Learning
 The purpose of this project was to build and train a custom LSTM RNN
 using a 10 day window of Bitcoin closing prices to predict the next days closing price.
 
-Approach
--Prepare data for training and testing.
--Build and train LSTM RNN model.
--Evalute performance.
+Approach<br/>
+-Prepare data for training and testing.<br/>
+-Build and train LSTM RNN model.<br/>
+-Evalute performance.<br/>
 
